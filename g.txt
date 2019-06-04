@@ -1,0 +1,6 @@
+GAME
+NOUN
+tro choi
+.
+Do you want to play a game? 
+.

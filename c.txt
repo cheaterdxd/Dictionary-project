@@ -1,0 +1,476 @@
+CAKE
+NOUN
+a sweet food make from a mixture of flour
+a food that is cooked in a round flat shape
+.
+a milk cake
+a birthday cake
+a chocolate cake
+.
+CAME
+VERB
+den , di den noi nao do
+den mot dia diem cu the
+qua khu cua come
+.
+i came to SG
+do you came? 
+.
+CALCULATE
+VERB
+tinh toan
+tinh truoc, suy tinh, du inh
+sap xep, lam cho thich hop
+.
+We haven’t really calculated the cost of the vacation yet
+You'll need to calculate how much time the assignment will take
+Benefit is calculated on the basis of average weekly earnings
+.
+CALL
+VERB
+tieng keu, tieng la, tieng goi
+tieng ken, tieng bao hieu
+su doi hoi,yeu cau
+.
+They decided to call the baby Mark
+His name's Hiroshi but everyone calls him Hiro
+Would you call it blue or green?
+I thought I heard somebody calling
+Will you call the kids in for lunch?
+CAMERA
+NOUN
+may anh
+may quay phim
+.
+Just point the camera and press the button
+a TV/video camera
+.
+CAMP
+NOUN
+cho cam trai
+doanh trai
+phe phai
+.
+Let's return to camp
+He spent two weeks at camp this summer
+We were in opposing camps
+.
+CAN
+VERB
+kha nang
+chi kha nang
+chi su cho phep
+.
+I can run fast
+Can you call back tomorrow?
+She can speak Spanish
+We can't wear jeans at work
+Can I read your newspaper?
+CANCEL
+VERB
+huy bo
+dong dau
+thanh toan
+.
+All flights have been cancelled because of bad weather
+Is it too late to cancel my order?
+Banks usually charge for cancelling a cheque
+.
+CANDY
+NOUN
+keo
+.
+a box of candy
+Who wants the last piece of candy?
+.
+CAPITAL
+NOUN
+thu do
+tien von
+chu hoa
+.
+HaNoi is the capital of VietNam
+You need capital to start a new business
+THESE ARE CAPITAL LETTERS 
+.
+CAPTURE
+VERB
+bat giu
+danh su dieu khien mot khu vuc
+chiem doat
+.
+Allied troops captured over 300 enemy soldiers
+The story captured his imagination
+.
+CAR
+NOUN
+xe o-to
+mot khoang tren tau lua
+.
+What kind of car do you have?
+The train has a dining-car
+.
+CARE
+NOUN
+su can than
+su trong nom
+dieu tri
+.
+Do it with care
+Your belongings will be safe in my care
+He is in medical care
+.
+CARELESS
+ADJECTIVE
+cau tha
+khong can than
+.
+It was careless of me to leave the door open
+He is a careless driver
+.
+CARRY
+VERB
+mang, vac
+truyen di
+giup do
+chua dung
+.
+She carry the child over the river
+Sound carries better over water
+These stone columns carry the weight of the whole building
+This job carries great responsibility
+.
+CASTLE
+NOUN
+mot lau dai lon
+mot loai quan co trong co vua
+.
+Windsor Castle
+He moved his castle to d5
+.
+CAT
+NOUN
+i love cat
+day la thu nghiem xuong dong lan thu nam roi a, ma chua tim duoc cau nao dai ma hay ca
+mot con meo
+.
+this is my cat
+you can have some cats here, there are many cats in this catshop, some are black, some are white
+the cat is so cute
+.
+CATCH
+VERB
+bat lay thu gi, ai do dang di chuyen
+len tau, xe
+bat gap ai do
+.
+She managed to catch the keys as they fell
+Our cat is hopeless at catching mice
+I caught her smoking in the bathroom
+We caught the 12.15 from Oxford
+.
+CELEBRATE
+VERB
+to chuc le ky niem dieu gi do quan trong
+ca ngoi ai do/dieu gi
+.
+Jake's passed his exams. We're going out to celebrate
+Songs that celebrate the joys of romantic love
+.
+CENTRAL
+ADJECTIVE
+thuoc trung tam
+quan trong nhat
+.
+She has been a central figure in the campaign
+There will be rain later in central and eastern parts of the country
+.
+CENTURY
+NOUN
+mot the ky
+mot thoi gian dai mot tram nam
+.
+By the close of this century another two billion people will have been born
+.
+CERTIFICATE
+NOUN
+giay chung nhan
+.
+i have learned CCNA certificate
+.
+CHAIR
+NOUN
+cai ghe de ngoi
+chu toa cua buoi gap mat
+chuc giao su dai hoc
+.
+Sit on your chair
+Who is in the chair today?
+He holds the chair of philosophy at Oxford
+.
+CHALLENGE
+NOUN
+thach thuc, thu thach
+tham tra ai do
+.
+He challenged his brother to a round of golf
+They challenged his authority to make such a decision
+.
+CHANCE
+NOUN
+su tinh co
+co hoi
+su co kha nang
+.
+It was by chance that I found out the truth
+Now you have a chance to do well
+He has no chance of winning
+.
+CHANGE
+VERB
+su thay doi
+trao doi
+su thay the
+doi ra tien le co menh gia nho
+tien thua tra lai
+.
+Her life changed completely when she won the lottery
+Computers have changed the way people work
+She changed my library books for me
+The prince was changed into a frog
+Your change is ten thousand dong. 
+CHANNEL
+NOUN
+Mot phuong phap hay he thong de lay thong tin hay lien lac
+Mot dai song vo tuyen duoc su dung de phat song cac chuong trinh truyen hinh hoac dai phat thanh
+Mot kenh tivi
+.
+What's on Channel 4 tonight?
+Satellite channels
+Complaints must be made through the proper channels.
+.
+CHAPTER
+NOUN
+Mot giai doan trong lich su hoac trong cuoc doi cua mot nguoi
+Mot phan rieng biet cua sach chua muc luc cua sach
+.
+I've just finished Chapter 3
+Have you read the chapter on the legal system?
+A difficult chapter in our country’s history
+.
+CHARACTER
+NOUN
+Dien ta mot tinh cach manh me cua mot nguoi
+Nhung tinh cach va pham chat lam nen mot nguoi khac voi nguoi khac
+.
+The character of the neighbourhood hasn't changed at all
+Everyone admires her strength of character and determination
+.
+CHARGE
+NOUN
+Sac pin cho thiet bi dien tu , thiet bi cam tay
+Mot khoang chi phi cho dich vu hay hang hoa
+.
+We have to make a small charge for refreshments
+He put his phone on charge
+.
+CHAT
+VERB
+Trao doi tin nhan voi ai do qua internet
+Tro chuyen voi ban be
+.
+My kids spend hours chatting on the phone to their friends
+He's been on the computer all morning, chatting with his friends
+.
+CHEAP
+ADJECTIVE
+Tinh cach keo kiet
+Noi ve dia vi cua mot nguoi trong tap the
+Mat hang , dich vu co gia thap
+Thu gi do co gia it hon ban nghi
+.
+Personal computers are cheap and getting cheaper.
+A cheap taxi firm
+He's just a cheap crook
+Don't be so cheap!
+.
+CHECK
+VERB
+Tich vao o trong tren giay
+Kiem tra thu gi de nam su kiem soat 
+Kiem tra lieu thu gi do co dung voi suy doan cua ban
+Kiem tra thu gi do de chac chan no chinh xac, an toan.
+.
+Check the oil and water before setting off
+I just need to check my email
+The government is determined to check the growth of public spending
+Check the box next to the right answer
+.
+CHEMICAL
+ADJECTIVE
+Lien quan toi nganh hoa hoc
+.
+The chemical industry
+A chemical toilet
+.
+CHEST
+NOUN
+hop go lon duoc su dung de chua do khi di chuyen
+phan co the nam giua co va bung, la nguc
+.
+The bullet hit him in the chest
+Chest pains
+This is a treasure chest
+.
+CHEW
+VERB
+hanh dong can ,nhai thuc an
+.
+He is always chewing gum
+CHICKEN
+NOUN
+Con ga, 1 loai chim lon duoc nuoi de lay trung hoac lay thit
+Thit ga
+.
+They keep chickens i`cn
+Last night we have roast chicken
+.
+CHILD
+NOUN
+Tre con, nguoi chua truong thanh
+.
+I lived in London asA three-year-old chi
+A three-year-old chi
+.
+CHIN
+NOUN
+Cai cam, bo phan tren co the nguoi nam duoi mieng va tren co
+.
+A strap fastens unde.
+.
+Con chip trong nganh cong nghe phan cung
+Banh snack, do an vat
+Mot manh vo tu do thuy tinh, go,...
+NOUN
+CHIP
+.
+This mug has a chip in it
+Chocolate chip cookies
+All main courses are served with chips or baked potato
+.
+CHOICE
+NOUN
+Nguoi hoac thu gi duoc chon
+Quyen duoc lua chon, kha nang duoc chon
+Su lua chon
+.
+We are faced with a difficult choice
+If I had the choice, I would stop working tomorrow
+This colour wasn't my first choice
+.
+CHURCH
+NOUN
+Nha tho
+.
+Duc Ba church
+How often do you go to church?
+.
+CINEMA
+NOUN
+Rap chieu phim ,dia diem noi chieu phim
+.
+I used to go to the cinema every week
+.
+CIRCUMSTANCE
+NOUN
+Hoan canh anh huong do nhung dieu kien va su kien ma khong the kiem soat
+Hoan canh thuc te anh huong den mot su vat, hien tuong
+.
+I know I can trust her in any circumstance
+The company reserves the right to cancel this agreement in certain circumstances
+Grants are awarded according to your financial circumstances
+A victim of circumstance
+.
+CITY
+NOUN
+Thanh pho lon
+.
+Ho Chi Minh is the biggest city in Viet Nam
+i was born in Quang Ngai city
+.
+CLAIM
+VERB
+Thu thap, luom nhat thu gi
+Tuyen bo dieu gi
+Yeu cau thu gi hay dich vu gi ma ban nghi ban co quyen duoc cung cap
+.
+I don't claim to be an expert
+He's not entitled to claim unemployment benefit
+It was claimed that some doctors were working 80 hours a week
+.
+CLASS
+NOUN
+Mot nhom dong vat, nguoi, nhung thu co cung dac diem pham chat
+Mot nhom nguoi co cung cap do trong xa hoi hoac cung cap do kinh te
+Lop hoc
+.
+I have math class on monday
+A society in which class is more important than ability
+The party tries to appeal to all classes of society
+It was good accommodation for a hotel of this class
+.
+CLASSIC
+ADJECTIVE
+Quan ao don gian, thanh lich
+Nhung dieu co ban nhat, dien hinh nhat
+.
+A classic example of poor communication
+She displayed the classic symptoms of depression
+A classic grey suit
+.
+CLASSROOM
+NOUN
+Phong hoc
+.
+My math's classroom is near the main door
+.
+CLEAN
+ADJECTIVE
+Giu thu gi do hoat dong chinh xac khong co loi
+(giay) Khong co gi duoc viet 
+Khong chua chat doc hay nhung thu doc hai
+Sach se
+.
+Are your hands clean?
+Cats are very clean animals
+we need clean drinking water
+It backs up data frequently, keeping a clean copy of your work
+.
+CLEAR
+ADJECTIVE
+(thoi tiet) trong lanh, khong co may mu
+Suy nghi mot cach hop ly va logic dac biet la trong tinh huong kho khan
+Ro rang va khong gay nghi ngo
+De hieu va khong gay hieu nham
+.
+She gave me clear and precise directions
+She won the election by a clear majority
+You'll need to keep a clear head for your interview
+A clear blue sky
+.
+CLEVER
+ADJECTIVE
+(at something) co ki nang tot trong viec gi do
+Thong minh , de dang hoc nhanh va hieu nhanh
+.
+How clever of you to work it out
+She's clever at making bakery
+.
+CLICK
+VERB
+To choose a particular function or item on a computer screen
+To make or cause something to make a short sharp sound
+.
+He clicked his fingers at the waiter
+Click the OK button to start
+.
