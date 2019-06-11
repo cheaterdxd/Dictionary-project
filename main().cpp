@@ -657,6 +657,7 @@ ptrmeanNode new_node_mean() {
 	ptrmeanNode mean = (ptrmeanNode)malloc(sizeof(meanNode));
 	return mean;
 }//yes
+
 int isEmtyMean(ptrmeanNode first) {
 	return (first == NULL ? 1 : 0);
 }
@@ -1130,7 +1131,7 @@ void printDsCol1(wordList l[],char wordFind[],int soLuongDaNhap, int page) {
 		clearCol1();
 		return;
 	}
-	node p = l[wordFind[0]-65].first; // lay mang bam can tim
+	node p = l[wordFind[0]-65].first;
 	clearCol1();
 	while(p!=NULL) {
 		gotoxy(xleft,y);
@@ -1189,7 +1190,7 @@ int find(wordList l[],char word[]) {
 				return 0; //thoat ra sau khi nhap hoan thanh
 			}
 			// chi nhan chu thuong hoac  chu in hoa.
-			if (((kb_hit >= 65 && kb_hit <= 90) || (kb_hit >= 97 && kb_hit <= 122)) && count < 20) {
+			if (((kb_hit >= 65 && kb_hit <= 90) || (kb_hit >= 97 && kb_hit <= 122)) && count < 200) {
 				if(posLetter == count) {
 					printf("%c",kb_hit);
 					ShowCur(1);
